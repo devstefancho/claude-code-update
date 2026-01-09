@@ -4,10 +4,11 @@
     "IS_DEMO": true
   },
   "permissions": {
-    "allow": [],
+    "allow": [
+    ],
     "ask": [],
     "deny": ["Task(search-summarizer)"]
   },
-  "respectGitignore": true,
+  "respectGitignore": false,
   "language-": "japanese"
 }

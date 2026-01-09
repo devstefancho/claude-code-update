@@ -1,5 +1,19 @@
+1. Skill이 특정 Agent로 호출 테스트
+```
 /hello test
+```
 
+2. 스킬호출 Deny 테스트
+```
 @agent-search-summarizer 에이전트 사용해서 서울날씨 검색해줘
+```
 
+3. LSP 테스트
+```
 UserService 클래스 찾아서 LSP로 findReferences 테스트 해줘
+```
+
+4. Subagent가 여러개의 스킬사용 테스트
+```
+Hey ChoCho, Greeting me
+```
